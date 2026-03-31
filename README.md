@@ -20,7 +20,7 @@ Although the phone appears dead, **BROM (BootROM) is still alive in the backgrou
 That means recovery is possible — but it requires **manually switching the driver very quickly**, because BROM remains connected only briefly.
 
 > **Important:**  
-> If your phone is only soft-bricked and still reaches the Flashing Tool with the normal, you likely do **not** need this method.  
+> If your phone is only soft-bricked and still reaches the Flashing Tool with the normal method, you likely do **not** need this method.  
 > In that case, use the regular XDA unbrick guide instead.
 
 ---
@@ -121,7 +121,7 @@ Scroll through the list and find an entry containing:
 
 Select it.
 
-![Step 5](res/images/step_5.png)
+![Step 5](res/images/step_5.jpg)
 
 ---
 
@@ -133,7 +133,7 @@ Uncheck:
 
 This is important.
 
-![Step 6](res/images/step_6.png)
+![Step 6](res/images/step_6.jpg)
 
 ---
 
